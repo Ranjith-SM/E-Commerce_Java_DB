@@ -63,30 +63,44 @@ like other e-commerce , the user can able to register and login and buy products
 ## Screenshots
 - login: 
 
-<img src="screenshots/userlogin.png" >
+<img src="screenshot/userlogin.png" >
 
 - HomeMenu:
 
-<img src="screenshots/homeMenu.png" >
+<img src="screenshot/homeMenu.png" >
 
 - Category & products:
 
-<img src="screenshots/showcategoryProducts.png" >
+<img src="screenshot/showcategoryProducts.png" >
 
 - All Products:
 
-<img src="screenshots/showProducts.png" >
+<img src="screenshot/showProducts.png" >
 
 - Cart Page:
 
-<img src="screenshots/cartpage.png" >
+<img src="screenshot/cartpage.png" >
 
 - ADMIN: 
 
   - login
 
-  <img src="screenshots/adminlogin.png" >
+  <img src="screenshot/adminlogin.png" >
 
   - MenuCategory
   
-  <img src="screenshots/admin_menu_category.png" >
+  <img src="screenshot/admin_menu_category.png" >
+
+- Databases:
+
+    - Users:
+  
+    <img src="screenshot/users-db.png">
+  
+    - Categories:
+  
+    <img src="screenshot/categories-db.png" >
+    
+    - Cart:
+  
+    <img src="screenshot/cart-db.png">
